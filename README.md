@@ -18,12 +18,12 @@
 - Zero-to-one product chops: spec → prototype → ship.
 - Data & growth: lifecycle loops, referral design, analytics hygiene.
 - Storytelling: crisp decks, “why now” narratives, launch threads.
-- Music brain: artist-first instincts + practical studio workflow.
+- Music brain: artist-first instincts + practical collaborative workflows.
 
 ## Recent highlights
-- ✅ Designed + shipped MVPs in public; iterated with community feedback.  
-- ✅ Built agentic bot flows & referral systems across Telegram/web.  
-- ✅ Live musician; first show of the season: **May 30 @ Mozart’s (Austin)**.
+- ✅ 7500+ Users on WAV3 Telegram Bot MVP.  
+- ✅ Launched Agentic Token with Virtuals.io (2800+ holders)  
+- ✅ Shipped Genesis Licenses with $10k+ in first month revenue.
 
 ## Open to collaborate on
 - Protocol integrations (Base / token design / staking mechanics)  
@@ -38,8 +38,9 @@
 
 ## Stack I reach for
 `TypeScript` · `React` · `Node` · `Prisma` · `Postgres` · `Python`  
-`Telegram bots` · `Base / EVM` · `Hardhat/Foundry` · `Notion + automations`  
-DAW: `Logic Pro X` · Instruments: `acoustic / indie-pop-folk`
+`Telegram bots` · `Base / EVM` · `Rainbowkit/Wallet Connect` · `MCP`  
+
+DAW: `Logic Pro X` · Genre: `acoustic / indie-pop-folk`
 
 ## How I work
 - Build in the open. Bias to shipping small, often.  
@@ -48,17 +49,20 @@ DAW: `Logic Pro X` · Instruments: `acoustic / indie-pop-folk`
 
 ## Links
 - 🎯 **Public Roadmap** → https://www.notion.so/2a277d85aeb48085a754f8822b422c99  
-- 🎵 **Music** → Spotify / SoundCloud (search **Nick Rains – “Midnight Sun”**)  
+- 🎵 **Music** → https://linktr.ee/nickrainsmusic  
 - ✉️ **Reach me** → TheNickRains@gmail.com
 
 ---
 
 ## GitHub Stats 
 
-<p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=TheNickRains&show_icons=true&hide_title=true" height="140"> /!-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNickRains&layout=compact&hide_title=true" height="140">
+
+<p align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheNickRains&theme=github" width="100%">
 </p>
 
-
-</details>
+<!-- Dark/Light Mode Footer Image -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c842616a-6c5c-4377-b41d-f447761ec78c#gh-light-mode-only" alt="Nick Rains (light)" width="25%">
+  <img src="https://github.com/user-attachments/assets/08770b62-95d0-4d6b-ad94-b55cd09fdace#gh-dark-mode-only"  alt="Nick Rains (dark)"  width="25%">
+</p>
