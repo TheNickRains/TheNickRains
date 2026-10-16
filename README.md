@@ -38,11 +38,11 @@ Previously, I built a dynamic soul-bound NFT project that generated **$88K in da
 
 | Area | Tools |
 | --- | --- |
-| Web | TypeScript · Next.js · React · Tailwind CSS |
+| Web | HTML · TypeScript · Next.js · React · Tailwind CSS |
 | Audio analysis | Python · Essentia · TensorFlow · NumPy |
 | Data & infrastructure | PostgreSQL · Supabase · Cloudflare R2 · Railway · Docker |
-| Services & testing | FastAPI · Playwright |
-| Other projects | Vite · Cloudflare Pages / Workers / D1 · Gemini · Google Apps Script |
+| Agents & Harnesses | Claude · Codex · Grok · Gemini · Orca · ClaudeCode · Cursor |
+| Other projects | Cloudflare Pages / Workers / D1 · Google Apps Script |
 
 ## How I work
 
